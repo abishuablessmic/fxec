@@ -1,0 +1,187 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f8f8f8;
+    padding: 2px 2px 2px 20px;
+    
+  }
+  
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+}
+
+.nav-items {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+ list-style: none;
+ display: flex;
+  align-items: center;
+  margin-left: 50rem;
+ 
+
+}
+
+.nav-items li {
+    margin-left: 1rem;
+  }
+
+  .nav-items a {
+  text-decoration: none;
+  color: #000;
+}
+
+
+.cta1 {
+    padding: 10px 20px;
+    background-color: pink;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+
+  section {
+    padding: 20px;
+  }
+  
+
+  .skills img{
+    width: 50px;
+  }
+
+
+  .projects img{
+    width: 400px;
+  }
+
+
+  .hero{
+    background-color: pink;
+   align-items: center;
+  }
+
+    .hero h1{
+        color: #fff;
+        font-size: 2rem;
+    }
+
+    .hero p{
+        color: #fff;
+        font-size: 1rem;
+    }
+
+    .hero img{
+        width: 200px;
+    }
+
+    .cta2 {
+        padding: 10px 20px;
+        background-color: rgb(33, 33, 33);
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .cta2:hover {
+        background-color: #ff0000;
+      }
+
+      .cta1:hover {
+        background-color: #ff0000;
+      }
+
+      .cta3 {
+        padding: 10px 20px;
+        background-color: pink;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .cta3:hover {
+        background-color: #ff0000;
+      }
+
+      .cta4 {
+        padding: 10px 20px;
+        background-color: pink;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .cta4:hover {
+        background-color: #ff0000;
+      }
+
+      .cta5 {
+        padding: 10px 20px;
+        background-color: pink;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .cta5:hover {
+        background-color: #ff0000;
+      }
+
+      .cta6 {
+        padding: 10px 20px;
+        background-color: pink;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .cta6:hover {
+        background-color: #ff0000;
+      }
+
+      .cta7 {
+        padding: 10px 20px;
+        background-color: pink;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .cta7:hover {
+        background-color: #ff0000;
+      }
+
+      .cta8 {
+        padding: 10px 20px;
+        background-color: pink;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .cta8:hover {
+        background-color: #ff0000;
+      }
+
+      .cta9 {
+        padding: 10px 20px;
+        background-color: pink;
+        color: #fff;
+        border: none;
+        border
